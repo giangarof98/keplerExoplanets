@@ -1,0 +1,22 @@
+{
+  "name": "kepler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giangarof98/keplerExoplanets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giangarof98/keplerExoplanets/issues"
+  },
+  "homepage": "https://github.com/giangarof98/keplerExoplanets#readme",
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
+}
